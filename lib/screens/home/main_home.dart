@@ -10,12 +10,16 @@ import '../../components/buttons.dart';
 import '../../constants/images.dart';
 
 class UserDashboard extends StatefulWidget {
+
   static const String id = '/user-dashboard';
+
   UserDashboard({
     Key? key,
     this.child,
   }) : super(key: key);
+
   Widget? child;
+  
   @override
   _UserDashboardState createState() => _UserDashboardState();
 }

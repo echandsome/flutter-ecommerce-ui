@@ -18,6 +18,7 @@ class HomeScreen extends StatefulWidget {
 }
 
 class _HomeScreenState extends State<HomeScreen> {
+
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -36,6 +37,7 @@ class _HomeScreenState extends State<HomeScreen> {
 }
 
 class MostPopularTitleText extends StatelessWidget {
+  
   const MostPopularTitleText({Key? key}) : super(key: key);
 
   @override
