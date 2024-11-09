@@ -10,6 +10,7 @@ import '../components/buttons.dart';
 import '../models/product.dart';
 
 class ProductPage extends StatefulWidget {
+  
   static const String id = '/ProductPage';
   const ProductPage({
     Key? key,

@@ -14,7 +14,6 @@ import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
 import 'package:velocity_x/velocity_x.dart';
 
-
 class LoginScreen extends StatefulWidget {
   static const String id = '/login';
   const LoginScreen({Key? key}) : super(key: key);

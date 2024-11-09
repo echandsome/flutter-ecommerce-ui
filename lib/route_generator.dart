@@ -7,6 +7,7 @@ import 'package:ecommerce_app_isaatech/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 
 class RouteGenerator {
+  
   static Route<dynamic> generateRoute(RouteSettings settings) {
     final args;
 

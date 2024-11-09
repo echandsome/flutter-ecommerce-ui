@@ -9,7 +9,6 @@ void main() {
 class EcommerceAppIsaatech extends StatelessWidget {
   const EcommerceAppIsaatech({Key? key}) : super(key: key);
 
-
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
