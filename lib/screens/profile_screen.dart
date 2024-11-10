@@ -14,6 +14,7 @@ class UserProfileScreen extends StatefulWidget {
 class _UserProfileScreenState extends State<UserProfileScreen> {
   @override
   Widget build(BuildContext context) {
+    
     return SingleChildScrollView(
       physics: const BouncingScrollPhysics(),
       child: Column(
